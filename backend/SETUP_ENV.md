@@ -9,7 +9,7 @@
 
 2. **Add your OpenRouter API Key** to the `.env` file:
    ```env
-   OPENROUTER_API_KEY=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
+   OPENROUTER_API_KEY=your_api_here
    PORT=3001
    ```
 
